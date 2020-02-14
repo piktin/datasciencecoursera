@@ -1,8 +1,8 @@
 ---
-title: "Helloworld"
+title: "HelloWorld"
 author: "piktin"
 date: "14/02/2020"
-output: pdf_document
+output: word_document
 ---
 
 ```{r setup, include=FALSE}
